@@ -14,38 +14,33 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'LG 27GP750-B 27” Ultragear FHD (1920 x 1080) IPS Gaming Monitor',
-    price: 299.99,
-    description: `Reimagine every scene with vivid, responsive IPS. At 27" and 16:9 screen ratio,
-                  LG's UltraGear™ Full HD IPS Display features realistic, true color with sRGB 99% Color Gamut 
-                  and HDR 10 for enhanced contrast, clarity and detail, while delivering an ultra-fast 240Hz 
-                  refresh rate and 1ms (GtG) response time. This UltraGear monitor is NVIDIA G-SYNC Compatible 
-                  and with AMD FreeSync Premium. The 3-Side virtually borderless design with a Tilt/Height/Pivot 
-                  adjustable stand makes any gaming setting look great too.`,
-    image: '/assets/img/1.jpg',
-    rating: '4.5',
-    likes: 10,
+    name: 'iPhone 12 Pro Max',
+    price: 1342,
+    description: `Apple iPhone 12 Pro Max with an elegant design without rounded edges in a stainless steel case. The 6.7—inch Super Retina XDR display - the largest among iPhone displays — has the highest resolution and displays almost 3.5 million pixels, demonstrating amazing realism of the image..`,
+    image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hcb/h1a/33281077968926/apple-iphone-12-pro-max-256gb-sinij-100658113-1-Container.jpg',
+    rating: '4.2',
+    likes: 0,
     visibility: true,
-    link: 'https://www.amazon.com/LG-27GP750-B-Ultragear-Compatible-Adjustable/dp/B09D914618/ref=sr_1_5?crid=TZ5G6W643BPA&keywords=gaming&qid=1647162410&sprefix=gaming+headsets%2Caps%2C368&sr=8-5',
+    link: 'https://kaspi.kz/shop/p/apple-iphone-12-pro-max-256gb-sinii-100658113/?c=750000000#!/item',
     category: 1
   },
   {
     id: 2,
-    name: 'HyperX Cloud II Wireless - Gaming Headset',
-    price: 129.99,
-    description: `The HyperX Cloud II was built to be an ultra-comfortable gaming headset with great sound. We put a lot of thought into the details of our HyperX signature memory foam, the premium leatherette, clamping force, and weight distribution. It’s no wonder that it’s become the preferred headset for millions of gamers. We're proud to present the HyperX Cloud II Wireless. With a fast 2.4Ghz wireless connection, a long-lasting 30-hour battery, and up to 20 meters of wireless range, you're set for more than a full day of comfort and wireless freedom. 53mm drivers deliver impressive sound, with 7.1 virtual surround sound for improved positional audio available at the touch of a button. It's compatible with PC, PlayStation 4, and Nintendo Switch, so you can take the good times across platforms.`,
-    image: '/assets/img/2.jpg',
-    rating: '4.6',
-    likes: 84,
+    name: 'iPhone 13',
+    price: 890,
+    description: `The Apple iPhone 13 received a 6.1-inch Super Retina XDR display, which features an incredibly high pixel density — photos, videos and text look strikingly clear. And thanks to the reduced area of the True Depth camera, there is now more space for the image on the display.`,
+    image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h01/h10/46392662491166/apple-iphone-13-128gb-cernyj-102298404-1-Container.jpg',
+    rating: '4.1',
+    likes: 0,
     visibility: true,
     category: 1,
-    link: 'https://www.amazon.com/HyperX-Cloud-Wireless-Detachable-Cancelling/dp/B08NTYB4M7/ref=sr_1_6?crid=TZ5G6W643BPA&keywords=gaming&qid=1647162410&sprefix=gaming%2Bheadsets%2Caps%2C368&sr=8-6&th=1'
+    link: 'https://kaspi.kz/shop/p/apple-iphone-13-128gb-chernyi-102298404/?c=750000000#!/item'
   },
   {
     id: 3,
-    name: 'Snpurdiri 60% Wired Gaming Keyboard',
-    price: 29.99,
-    description: `This 60% gaming keyboard has a perfect size and it's good for all environnement, business travel games office home use, without Numpad, more practical for Gamers and Typist, give more space to your desktop.`,
+    name: 'Xiaomi Redmi 10C',
+    price: 161,
+    description: 'Xiaomi Red 10C is equipped with a large display with a diagonal of 6.71 inches with Corning Gorilla Glass, which protects the screen from scratches and damage when falling. Redmi 10C allows you to create professional-level photos in a format for entertainment.',
     image: '/assets/img/3.jpg',
     rating: '4.3',
     likes: 37,
