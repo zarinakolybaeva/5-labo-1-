@@ -79,9 +79,9 @@ export const products = [
     description: `The functional and stylish Apple iPhone 11 smartphone in a metal case is able to provide not only everyday communication and entertainment, but also productive work. The image on the screen of a smartphone with a diagonal of 6.1 inches has amazing detail and color reproduction.`,
     image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h79/h01/33208264720414/apple-iphone-11-128gb-slim-box-belyj-100692385-1-Container.jpg',
     rating: '3.5',
-    likes: 801,
+    likes: 0,
     visibility: true,
-    category: 2,
+    category: 1,
     link: 'https://kaspi.kz/shop/p/apple-iphone-11-128gb-slim-box-belyi-100692385/?c=750000000#!/item1'
   },
   {
@@ -91,7 +91,7 @@ export const products = [
     description: 'Galaxy A73 5G - multimedia center you have even more possibilities in your hands. Galaxy A73 5G powered by Snapdragon 778G 5G processor expands multimedia capabilities thanks to the highest level of gaming, professional shooting and advanced artificial intelligence technology to improve performance. Need more memory? The RAM Plus function provides additional virtual RAM',
     image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h53/hc6/50197108097054/samsung-galaxy-a73-5g-8-gb-256-gb-zelenyi-104546061-1.jpg',
     rating: '3.7',
-    likes: 734,
+    likes: 0,
     visibility: true,
     category: 2,
     link: 'https://kaspi.kz/shop/p/samsung-galaxy-a73-5g-8-gb-256-gb-zelenyi-104546061/?c=750000000#!/item'
@@ -103,7 +103,7 @@ export const products = [
     description: 'Meet the Galaxy S22 Ultra with the power of the Note Its slim aluminum body impresses with its perfect shape. And the exquisite outlines of the rear cameras seem to be buried in its smooth surface. It has never been brighter, appreciate the Dynamic AMOLED 2X display with Vision Booster technology and 1750 thread, thanks to which you will forget about glare.',
     image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hda/hb6/48695060529182/samsung-galaxy-s22-ultra-12-256gb-cernyj-podarok-103668309-1.jpg',
     rating: '4.1',
-    likes: 931,
+    likes: 0,
     visibility: true,
     category: 2,
     link: 'https://kaspi.kz/shop/p/samsung-galaxy-s22-ultra-12-gb-256-gb-chernyi-103668309/?c=750000000#!/item'
